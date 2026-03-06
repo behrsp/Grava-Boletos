@@ -1,0 +1,5 @@
+{
+  "name": "Inclusão de Boletos",
+  "description": "Gerenciador de boletos com controle de vencimento, pagamentos e dashboard financeiro.",
+  "requestFramePermissions": []
+}
